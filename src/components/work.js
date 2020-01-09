@@ -40,15 +40,15 @@ class Work extends Component {
             </div>
             <div className="portfolio-item">
               <div className="portfolio-img">
-                   <img src="https://i.ibb.co/ZT2Np2f/Screen-Shot-2019-12-24-at-11-22-40-AM.png"/>
+                   <img src="https://i.ibb.co/Lz2DtpM/Screen-Shot-2020-01-09-at-1-04-50-PM.png"/>
               </div>
               <div className="portfolio-description has-margin-left">
-                <h1>Weather App</h1>
+                <h1>Brewery Tour Manager</h1>
                 <h6>Front End</h6>
                 <br /> 
-                <p>Built using React and the OpenWeather api, user can search weather by city name.</p>
-                <a href="https://github.com/dcgleason/weather-app" className="cla">View Repo</a>
-                <a href="#" className="cla">View Application</a>
+                <p>Built using React and the OpenBrewery API, user can create his/her own brewery tour by finding information about breweries by city name in the US."</p>
+                <a href="https://github.com/dcgleason/brewery-locator" className="cla">View Repo</a>
+                <a href="https://flamboyant-booth-ec5a09.netlify.com/" className="cla">View Application</a>
               </div>
             </div>
           </div>
