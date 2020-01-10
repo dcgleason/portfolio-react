@@ -22,6 +22,7 @@ class Work extends Component {
                 <br />
                 <p>Developed a trivia game from scratch. Constructed HTML, CSS, and Javasript. The application pulls from the NASA API to provide the background image.</p>
                 <a href="https://github.com/dcgleason/triviaGame" className="class">View Repo</a>
+                <br/>
                 <a href="https://dcgleason.github.io/triviaGame/" className="class">View Application</a>
               </div>
             </div>
@@ -32,6 +33,7 @@ class Work extends Component {
                 <br />
                 <p>Developed click game where user isn't allowed to click a puppy twice. Built in React</p>
                 <a href="https://github.com/dcgleason/click-game" className="cla">View Repo</a>
+                <br/>
                 <a href="https://polar-cove-77559.herokuapp.com/" className="cla">View Application</a>
               </div>
               <div className="portfolio-img">
@@ -48,6 +50,7 @@ class Work extends Component {
                 <br /> 
                 <p>Built using React and the OpenBrewery API, user can create his/her own brewery tour by finding information about breweries by city name in the US."</p>
                 <a href="https://github.com/dcgleason/brewery-locator" className="cla">View Repo</a>
+                <br/>
                 <a href="https://brewery-tour-manager.netlify.com/" className="cla">View Application</a>
               </div>
             </div>
