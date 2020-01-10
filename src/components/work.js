@@ -40,7 +40,7 @@ class Work extends Component {
             </div>
             <div className="portfolio-item">
               <div className="portfolio-img">
-                   <img src="https://i.ibb.co/Lz2DtpM/Screen-Shot-2020-01-09-at-1-04-50-PM.png"/>
+                   <img src="https://i.ibb.co/DrX175R/Screen-Shot-2020-01-10-at-11-21-18-AM.png"/>
               </div>
               <div className="portfolio-description has-margin-left">
                 <h1>Brewery Tour Manager</h1>
@@ -48,7 +48,7 @@ class Work extends Component {
                 <br /> 
                 <p>Built using React and the OpenBrewery API, user can create his/her own brewery tour by finding information about breweries by city name in the US."</p>
                 <a href="https://github.com/dcgleason/brewery-locator" className="cla">View Repo</a>
-                <a href="https://flamboyant-booth-ec5a09.netlify.com/" className="cla">View Application</a>
+                <a href="https://brewery-tour-manager.netlify.com/" className="cla">View Application</a>
               </div>
             </div>
           </div>
@@ -60,3 +60,4 @@ class Work extends Component {
 }
 
 export default Work;
+
